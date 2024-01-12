@@ -1,0 +1,2 @@
+Estudante de Análise e Desenvolvimento de Sistemas com conhecimento intermediário em linguagem c#, banco de dados MySQL e também linguagem Python ferramenta jupyter biblioteca Panda para Automação de tarefas, Análise de dados, IA e atualmente estudando criação de sites e sistemas.
+Conhecimento em desenvolvimento web e JavaScript, projetos em construção e constantemente inpecionados para clean code.
