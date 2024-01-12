@@ -1,4 +1,6 @@
-👨🏻‍💻 Olá Bem Vindo, sou o Fredson Borges
+👨🏻‍💻 Olá 
+
+Bem Vindo, sou o Fredson Borges
 
 Estudante de Análise e Desenvolvimento de Sistemas, meu foco atualmente está em full stack.
 
