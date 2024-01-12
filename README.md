@@ -1,8 +1,8 @@
-👨🏻‍💻 Olá 
+## 👨🏻‍💻 Olá, Bem Vindo !!!
 
-Bem Vindo, sou o Fredson Borges
+Eu sou o Fredson Borges
 
-Estudante de Análise e Desenvolvimento de Sistemas, meu foco atualmente está em full stack.
+Estudante de Análise e Desenvolvimento de Sistemas - PUC Minas, meu foco atualmente está em full stack.
 
 Atualmente desenvolvendo projetos em linguagem Python, ferramenta jupyter com biblioteca Panda para Automação de tarefas, Análise de dados, IA e criação de sites e sistemas.
 
