@@ -5,32 +5,12 @@ Desenvolvimento web HTML, CSS e JavaScript, e integração a banco de dados MySQ
 Atualmente desenvolvendo projetos em linguagem Python, ferramenta jupyter com biblioteca Panda para Automação de tarefas, Análise de dados, IA e criação de sites e sistemas.
 Projetos constantemente inpecionados para clean code e otimizações.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredsonnorges&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredsonborges&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredsonBorges&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredsonBorges&layout=compact&theme=tokyonight"/>
 
  <img align="center" alt="Fred-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
- 
-            <img align="center" alt="Fred-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-            
-            <img align="center" alt="Fred-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-            
-            <img align="center" alt="Fred-csharp" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-            
-            <img align="center" alt="Fred-csharp" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-            
-            <img align="center" alt="Fred-csharp" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            
+ <img align="center" alt="Fred-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img align="center" alt="Fred-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+      <img align="center" alt="Fred-csharp" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img align="center" alt="Fred-csharp" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             <img align="center" alt="Fred-csharp" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-          
-          
-          
-          
-          
-          
-
-
-            
-          
-
-          
- 
