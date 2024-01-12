@@ -1,8 +1,13 @@
-👨🏻‍💻 Hi, Eu sou Fredson Filho
+👨🏻‍💻 Oi, Eu sou Fredson Filho
+
 Estudante de Análise e Desenvolvimento de Sistemas, meu foco atualmente está em full stack.
+
 Conhecimento intermediário em linguagem c#. 
+
 Desenvolvimento web HTML, CSS e JavaScript, e integração a banco de dados MySQL com Node.
+
 Atualmente desenvolvendo projetos em linguagem Python, ferramenta jupyter com biblioteca Panda para Automação de tarefas, Análise de dados, IA e criação de sites e sistemas.
+
 Projetos constantemente inpecionados para clean code e otimizações.
 
 <div>
