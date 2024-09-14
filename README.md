@@ -9,8 +9,8 @@ Atualmente desenvolvendo projetos em linguagem Python, ferramenta jupyter com bi
 Projetos constantemente inpecionados para clean code e otimizações.
 <div>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredBorges94&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBorges94&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredBorgesdev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBorgesdev&layout=compact&theme=tokyonight"/>
 </div>
  
 </div>
